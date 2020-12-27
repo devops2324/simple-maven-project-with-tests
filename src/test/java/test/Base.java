@@ -2,7 +2,7 @@
 package test;
 
 import static org.junit.Assert.*;
-import org.junit.internal.AssumptionViolatedException;
+import org.junit.internal.AssumptionViolatedException;;
 
 class Base {
 
